@@ -7,5 +7,5 @@
 6. Installed and configured responsive table field module to create table in the content type <br><br>
 
 <img src = "math.PNG">
-<a href ="https://anilsmathclasses.com/">Live Preview</a>
+<a href ="https://anilsmathclasses.xyz/">Live Preview</a>
 
